@@ -1,4 +1,4 @@
-# Chrome Spoofer Pro: Advanced User-Agent Switcher
+# Chrome Spoofer Pro: Advanced User Agent Switcher
 
 **Short Description:**
 Instantly change your browser's User-Agent to test websites, view mobile layouts, and browse as any device or operating system with a single click.
